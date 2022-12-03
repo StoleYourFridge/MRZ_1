@@ -1,0 +1,1 @@
+There(directory) will be stored cached image arrays.
